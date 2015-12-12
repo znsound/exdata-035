@@ -1,1 +1,1 @@
-coursera class
+coursera class - [Exploratory Data Analysis]
