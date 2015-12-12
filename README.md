@@ -95,19 +95,19 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](https://d396qusza40orc.cloudfront.net/exdata/CP1/ExDataCP1Plot4.png) 
